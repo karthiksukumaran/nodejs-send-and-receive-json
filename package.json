@@ -1,0 +1,31 @@
+{
+  "name": "hello-world-basic-service",
+  "version": "1.0.0",
+  "description": "For Blog in KarthikSukumaran.com ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthiksukumaran/nodejs-tutorials.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Basic",
+    "Service",
+    "karthiksukumaran.com"
+  ],
+  "author": "Karthik Sukumaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthiksukumaran/nodejs-tutorials/issues"
+  },
+  "homepage": "https://github.com/karthiksukumaran/nodejs-tutorials#readme"
+}
